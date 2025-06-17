@@ -1,0 +1,24 @@
+--- INICIANDO TRABAJO DE CORTE PARALELO (v3) ---
+Tue Jun 17 19:28:34 CEST 2025
+--- [Worker 1] Iniciando. Objetivo: Sample2.fastq ---
+--- [Worker 3] Iniciando. Objetivo: Sample4.fastq ---
+--- [Worker 0] Iniciando. Objetivo: Sample1.fastq ---
+--- [Worker 2] Iniciando. Objetivo: Sample3.fastq ---
+--- [Worker 1] DEBUG: 'wc -l' ha devuelto '100000' líneas para Sample2.fastq.
+--- [Worker 3] DEBUG: 'wc -l' ha devuelto '100000' líneas para Sample4.fastq.
+--- [Worker 0] DEBUG: 'wc -l' ha devuelto '100000' líneas para Sample1.fastq.
+--- [Worker 2] DEBUG: 'wc -l' ha devuelto '100000' líneas para Sample3.fastq.
+--- [Worker 1] DEBUG: Se conservarán '11111' líneas.
+--- [Worker 3] DEBUG: Se conservarán '11111' líneas.
+--- [Worker 0] DEBUG: Se conservarán '11111' líneas.
+--- [Worker 2] DEBUG: Se conservarán '11111' líneas.
+--- [Worker 1] ÉXITO: Fichero Sample2.fastq procesado.
+--- [Worker 3] ÉXITO: Fichero Sample4.fastq procesado.
+--- [Worker 0] ÉXITO: Fichero Sample1.fastq procesado.
+--- [Worker 2] ÉXITO: Fichero Sample3.fastq procesado.
+
+real	0m0.160s
+user	0m0.011s
+sys	0m0.004s
+--- TRABAJO FINALIZADO ---
+Tue Jun 17 19:28:34 CEST 2025

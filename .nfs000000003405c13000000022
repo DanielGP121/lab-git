@@ -1,0 +1,14 @@
+--- INICIANDO TRABAJO DE CORTE PARALELO ---
+Fecha: Tue Jun 17 19:08:09 CEST 2025
+-------------------------------------------
+slurmstepd: error: execve(): /home/alumno09/lab-git/./file-cut.sh: Permission denied
+slurmstepd: error: execve(): /home/alumno09/lab-git/./file-cut.sh: Permission denied
+slurmstepd: error: execve(): /home/alumno09/lab-git/./file-cut.sh: Permission denied
+slurmstepd: error: execve(): /home/alumno09/lab-git/./file-cut.sh: Permission denied
+srun: error: pacioli: tasks 0-3: Exited with exit code 13
+
+real	0m0.143s
+user	0m0.007s
+sys	0m0.007s
+-------------------------------------------
+--- TRABAJO FINALIZADO ---

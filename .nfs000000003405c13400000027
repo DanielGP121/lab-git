@@ -1,0 +1,12 @@
+--- INICIANDO TRABAJO DE CORTE PARALELO (v3) ---
+Tue Jun 17 19:19:55 CEST 2025
+Trabajador con ID 0 ha procesado el fichero Sample1.fastq con éxito.
+Trabajador con ID 2 ha procesado el fichero Sample3.fastq con éxito.
+Trabajador con ID 3 ha procesado el fichero Sample4.fastq con éxito.
+Trabajador con ID 1 ha procesado el fichero Sample2.fastq con éxito.
+
+real	0m0.159s
+user	0m0.009s
+sys	0m0.005s
+--- TRABAJO FINALIZADO ---
+Tue Jun 17 19:19:55 CEST 2025

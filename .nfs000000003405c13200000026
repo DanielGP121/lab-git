@@ -1,0 +1,15 @@
+--- INICIANDO TRABAJO DE CORTE PARALELO (v3) ---
+Tue Jun 17 19:17:04 CEST 2025
+mv: cannot stat 'Sample1.fastq.tmp': No such file or directory
+Fichero Sample1.fastq procesado por el trabajador con ID 0.
+mv: cannot stat 'Sample1.fastq.tmp': No such file or directory
+Fichero Sample1.fastq procesado por el trabajador con ID 1.
+Fichero Sample1.fastq procesado por el trabajador con ID 2.
+mv: cannot stat 'Sample1.fastq.tmp': No such file or directory
+Fichero Sample1.fastq procesado por el trabajador con ID 3.
+
+real	0m0.157s
+user	0m0.008s
+sys	0m0.006s
+--- TRABAJO FINALIZADO ---
+Tue Jun 17 19:17:04 CEST 2025
